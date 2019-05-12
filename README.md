@@ -1,5 +1,5 @@
 # Customer Churn-Scikit
-Predicting customer churn using Scikit-learn library 
+Predicting customer churn using Scikit-learn library. This is a binary classification problem which has been solved usinf following algorithms:b
 1. Logistic Regression
 2. SVM
 3. Random Forest
