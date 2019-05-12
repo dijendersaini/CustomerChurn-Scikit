@@ -1,0 +1,36 @@
+Data file contains following independent fields:bb
+
+gender
+SeniorCitizen
+Partner
+Dependents
+tenure
+PhoneService
+PaperlessBilling
+MonthlyCharges
+TotalCharges
+MultipleLinesNo phone service
+MultipleLinesYes
+InternetServiceFiber optic
+InternetServiceNo
+OnlineSecurityNo internet service
+OnlineSecurityYes
+OnlineBackupNo internet service
+OnlineBackupYes
+DeviceProtectionNo internet service
+DeviceProtectionYes
+TechSupportNo internet service
+TechSupportYes
+StreamingTVNo internet service
+StreamingTVYes
+StreamingMoviesNo internet service
+StreamingMoviesYes
+ContractOne year
+ContractTwo year
+PaymentMethodCredit card (automatic)
+PaymentMethodElectronic check
+PaymentMethodMailed check
+
+Dependent variable:
+Churn
+
